@@ -77,18 +77,18 @@ section .gambar {
   
 }
 #gambar1{
-  width: 25%;
-  height: 70%;
+  width: 100%;
+  height: 100%;
 }
 
 #gambar2{
-  width: 30%;
-  height:70%;
+  width: 100%;
+  height:100%;
 }
 
 #gambar3{
-  width: 25%;
-  height: 70%;
+  width: 100%;
+  height: 100%;
 }
 
 section .ucapan {
